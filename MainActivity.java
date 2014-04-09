@@ -10,6 +10,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
+// mobile software edited
 public class MainActivity extends Activity {
 
 	private Button mStartBtn;
